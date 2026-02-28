@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ラブしい",
+  "base_artist": "花譜 & Kizuna AI",
+  "createdAt": "2026-02-28T15:01:33.970946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブしい",
+      "artist": "Kizuna AI × KAF",
+      "has_synced": true,
+      "path": "select/01_ラブしい_Kizuna_AI_×_KAF.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラブしい",
+      "artist": "Kizuna AI",
+      "has_synced": true,
+      "path": "select/02_ラブしい_Kizuna_AI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブしい",
+      "artist": "花譜 & Kizuna AI",
+      "has_synced": true,
+      "path": "select/03_ラブしい_花譜_&_Kizuna_AI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブしい(Instrumental)",
+      "artist": "花譜 & Kizuna AI",
+      "has_synced": true,
+      "path": "select/04_ラブしい(Instrumental)_花譜_&_Kizuna_AI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラブしい",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/05_ラブしい_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブしい",
+      "artist": "花譜 & Kizuna AI",
+      "has_synced": false,
+      "path": "select/pl_01_ラブしい_花譜_&_Kizuna_AI.txt"
+    }
+  ]
+}
